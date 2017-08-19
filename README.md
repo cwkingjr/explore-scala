@@ -1,2 +1,2 @@
 # scala
-Exploring the scala language
+Explore the scala language
